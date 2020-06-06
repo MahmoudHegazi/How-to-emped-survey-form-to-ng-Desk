@@ -13,7 +13,7 @@ describe the options then he can select a problem or request from 12 option
 it's full respsonive , then it go to next step submit a form with his name and email
 this form will collect this info and with my edit to <a  href="https://zapier.com/">Zaiper</a>
 it will send mail with <strong>customized HTML and with it a <a href="https://docs.google.com/forms/d/e/1FAIpQLSepNKr7ERrqBT0HaDMgGq4ljXDsM7gUCnzXVCcvFUu3Evu7vw/viewform?usp=sf_link">
-seruvey</a> I created on google forms 
+The survey</a> I created on google forms 
 
 ## now we come to the hacker marge  (Out of box)
 
